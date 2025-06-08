@@ -4,13 +4,6 @@ This is a simple and interactive **Tic Tac Toe** game built using **HTML**, **CS
 
 ---
 
-## 🔹 Live Demo
-
-🚀 [Click here to play the game](https://thedarshanb.github.io/Tic-Tac-Toe-Game-Using-JavaScript/)  
-
-
----
-
 ## 🖥️ Preview
 
 ![Screenshot 2025-06-08 151314](https://github.com/user-attachments/assets/6f3a659d-b998-483d-9034-aa8386a0cd72)
