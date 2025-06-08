@@ -1,8 +1,11 @@
-# 🎮 Tic Tac Toe - Interactive Web Game
+#  Tic Tac Toe - Interactive Web Game
 
 This is a simple and interactive **Tic Tac Toe** game built using **HTML**, **CSS**, and **JavaScript**. Play against a friend on the same device with smooth game logic and an intuitive design.
 
 ---
+# 🎮 [Click here to play the game](https://thedarshanb.github.io/Tic-Tac-Toe-Game-Using-JavaScript/Tic%20Tac%20Toe/)
+
+----
 
 ## 🖥️ Preview
 
