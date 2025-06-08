@@ -6,8 +6,8 @@ This is a simple and interactive **Tic Tac Toe** game built using **HTML**, **CS
 
 ## 🔹 Live Demo
 
-🚀 [Click here to play the game](#)  
-*(Replace `#` with your GitHub Pages link once deployed)*
+🚀 [Click here to play the game](https://github.com/thedarshanb/Tic-Tac-Toe-Game-Using-JavaScript/commit/38adea6133cb0efa19514fa40169f816c7bfb71d)  
+
 
 ---
 
